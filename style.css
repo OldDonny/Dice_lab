@@ -1,0 +1,27 @@
+button{
+    padding: 1em;
+    background-color: grey;
+    border: 1px solid white;
+}
+
+.buttons{
+    display:block;
+}
+
+body{
+    background-color: black;
+}
+
+.dice{
+    display: inline-block;
+    margin: 1rem;
+    background-color: white;
+    height: 5rem;
+    width: 5rem;
+    text-align: center;
+    font-size: 3rem;
+}
+.dice h1{
+    position: relative;
+    bottom: .3em;
+}
